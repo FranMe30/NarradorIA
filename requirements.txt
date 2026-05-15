@@ -1,0 +1,9 @@
+opencv-python
+transformers
+torch
+gradio
+pillow
+scipy
+soundfile
+sentencepiece
+accelerate
